@@ -1,14 +1,10 @@
 # :books: 오늘의 공부
 --------------------------------------------------------------------------
 
-✔ **팀명**<br/>
+✔ **팀원**<br/>
 　 [송다혜](https://github.com/ssongdahye) [조솔](https://github.com/jo-sol) [우형민](https://github.com/woohyeongminn) [김은채](https://github.com/Kimeunchaee) [반계령](https://github.com/gyeryeongban)<br/>
   <br/>
-  
-✔ **팀원**<br/>
-　 오합지졸<br/>
-  <br/>
-  
+
 ✔ **프로젝트명**<br/>
 　 오늘의 공부<br/>
   <br/>
